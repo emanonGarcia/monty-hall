@@ -10,4 +10,4 @@ pip install -r requirements.txt
 ```
 
 ##Authors
-* **Luis Garcia** - *Initial work* -[emanonGarcia](github.com/emanongarcia)
+* **Luis Garcia** - *Initial work* -[emanonGarcia](https://github.com/emanonGarcia)
